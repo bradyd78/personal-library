@@ -10,6 +10,7 @@ A personal library of resources for exploring key computer science topics. Add b
 - [Databases](#databases)
 - [Software Engineering](#software-engineering)
 - [Theory](#theory)
+- [Cross-Platform Development](#cross-platform-development)
 - [Other Topics](#other-topics)
 
 ---
@@ -156,6 +157,29 @@ A personal library of resources for exploring key computer science topics. Add b
 - [Awesome Theory](https://github.com/tayllan/awesome-theory)
 
 ---
+## Cross-Platform Development
+
+### Blogs
+- [Ray Wenderlich: Cross-Platform](https://www.raywenderlich.com/tag/cross-platform)  
+  Tutorials and articles about building apps for multiple platforms.
+
+### Videos
+- [Cross-Platform Mobile Development Explained](https://www.youtube.com/watch?v=Hh6b4v6UHUY)  
+  Overview of tools and frameworks for cross-platform development.
+
+### Tutorials
+- [Microsoft Docs: Cross-Platform Development](https://learn.microsoft.com/en-us/dotnet/architecture/cross-platform/)
+- [Flutter Documentation](https://docs.flutter.dev/)
+- [React Native Getting Started](https://reactnative.dev/docs/getting-started)
+
+### Tools
+- [Flutter](https://flutter.dev/)
+- [React Native](https://reactnative.dev/)
+- [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin)
+- [Electron](https://www.electronjs.org/)
+
+### Other Resources
+- [Awesome Cross-Platform Development](https://github.com/multi-platform/awesome-cross-platform)
 
 ## Other Topics
 
