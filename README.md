@@ -174,6 +174,7 @@ A personal library of resources for exploring key computer science topics. Add b
 
 ### Tools
 - [Flutter](https://flutter.dev/)
+- [FlutLab](https://flutlab.io/) *Online Flutter IDE*
 - [React Native](https://reactnative.dev/)
 - [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin)
 - [Electron](https://www.electronjs.org/)
