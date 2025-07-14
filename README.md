@@ -1,6 +1,6 @@
 # Computer Science Topics Library
 
-A personal library of resources for exploring key computer science topics. Add blogs, videos, tutorials, tools, and more under each section!
+A personal library of resources for exploring computer science topics.
 
 ## Table of Contents
 - [Algorithms](#algorithms)
